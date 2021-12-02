@@ -19,3 +19,15 @@ Folder               | Description
 | -----------|---------|
 |F_01|  sensing if the person is seated  |
 |F_02| Blinking the LED  |
+
+### Image
+
+![activity_4 4](https://user-images.githubusercontent.com/94169797/144205368-60e9bf0a-fb85-4913-92df-f6a46ada786a.jpg)
+
+## Learning Resources
+
+1.[gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
+
+2.[github workflow](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
+
+3.[structure in c](https://www.studytonight.com/c/structures-in-c.php/)
