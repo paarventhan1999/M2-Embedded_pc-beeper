@@ -1,4 +1,4 @@
-PROJ_NAME = seat heat app
+PROJ_NAME = Embedded_pc-beeper
 
 BUILD_DIR = Build
 
@@ -8,6 +8,7 @@ src/activity1.c\
 src/activity2.c\
 src/activity3.c\
 src/activity4.c\
+main.c\
 
 
 #Object copy to create hexfile
